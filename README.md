@@ -24,3 +24,10 @@
    - [ ] Introduction to Image Generation with Diffusion Models
 5. Products with Revenue
    - [ ] TODO
+
+## Research Paper Reading
+- April
+  - [x] LLaMA Research Paper
+  - [x] Pythia Analyzing LLM Models
+  - [ ] Comprehensive Overview of Large Language Models 
+  - [ ] 
