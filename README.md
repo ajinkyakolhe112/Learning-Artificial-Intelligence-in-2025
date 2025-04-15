@@ -1,11 +1,23 @@
 # Progress Update: 3rd Year of Mastering AI
 
-## Things I learned in 2023 & 2024
+Joined as `AI Training & Upskilling Manager` at `BharatGen IIT Bombay`
+
+### Things I learned in until now (2023 & 2024)
 1. Neural Networks & PyTorch
 2. Image & Text Classification
 3. Image & Text Generation
 4. LLM Landscape
 
+## Research Paper Reading
+- April
+  - [x] LLaMA Research Paper
+  - [x] Pythia Analyzing LLM Models
+  - [x] Comprehensive Overview of Large Language Models 
+
+## Courses Studied
+- [x] Deeplearning.ai Attention in transformers
+- [x] Deeplearning.ai How transformers work
+- [x] Deeplearning.ai Opensource models with HuggingFace
 
 ## TODO: 2025 - Apply knowledge to projects
 1. LLM Projects
@@ -22,12 +34,5 @@
    - [ ] Application Development with LLM. ![](https://geps.dev/progress/30)
    - [ ] AI for Decision Makers. ![](https://geps.dev/progress/10)
    - [ ] Introduction to Image Generation with Diffusion Models
-5. Products with Revenue
+5. Build Products with Revenue
    - [ ] TODO
-
-## Research Paper Reading
-- April
-  - [x] LLaMA Research Paper
-  - [x] Pythia Analyzing LLM Models
-  - [ ] Comprehensive Overview of Large Language Models 
-  - [ ] 
