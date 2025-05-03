@@ -8,16 +8,18 @@ Joined as `AI Training & Upskilling Manager` at `BharatGen IIT Bombay`
 3. Image & Text Generation
 4. LLM Landscape
 
-## Research Paper Reading
-- April
-  - [x] LLaMA Research Paper
-  - [x] Pythia Analyzing LLM Models
-  - [x] Comprehensive Overview of Large Language Models 
-
-## Courses Studied
+## Learning LLM
+### Courses Studied
 - [x] Deeplearning.ai Attention in transformers
 - [x] Deeplearning.ai How transformers work
 - [x] Deeplearning.ai Opensource models with HuggingFace
+
+### Research Paper Reading
+- April
+  - [x] LLaMA Research Paper
+  - [x] Pythia Analyzing LLM Models
+  - [x] LLaMA 2 Research Paper
+  - [x] Comprehensive Overview of Large Language Models 
 
 ## TODO: 2025 - Apply knowledge to projects
 1. LLM Projects
