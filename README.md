@@ -14,12 +14,17 @@ Joined as `AI Training & Upskilling Manager` at `BharatGen IIT Bombay`
 - [x] Deeplearning.ai How transformers work
 - [x] Deeplearning.ai Opensource models with HuggingFace
 
+### Courses TODO
+- [ ] HuggingFace LLM
+- [ ] ERA1 & ERA3
+
 ### Research Paper Reading
 - April
   - [x] LLaMA Research Paper
   - [x] Pythia Analyzing LLM Models
   - [x] LLaMA 2 Research Paper
-  - [x] Comprehensive Overview of Large Language Models 
+  - [x] Comprehensive Overview of Large Language Models
+  - [x] Tiny LLama 
 
 ## TODO: 2025 - Apply knowledge to projects
 1. LLM Projects
